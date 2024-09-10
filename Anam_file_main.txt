@@ -1,3 +1,8 @@
 creating file in main
+<<<<<<< Updated upstream
 this is stash lecture, changees doing in file 2 wgich is main file
 this is stash lecture, changees doing in file 2 wgich is main fileee
+=======
+comparison lecture in file2
+this is stash lecture, change in file 2
+>>>>>>> Stashed changes
